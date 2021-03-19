@@ -15,6 +15,7 @@
 		FA8FD7FC2604DB1800BED341 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8FD7FA2604DB1800BED341 /* LaunchScreen.storyboard */; };
 		FA8FD8072604DB1900BED341 /* TimerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8FD8062604DB1900BED341 /* TimerTests.swift */; };
 		FA8FD8122604DB1900BED341 /* TimerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8FD8112604DB1900BED341 /* TimerUITests.swift */; };
+		FA8FD8232604DE7C00BED341 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8FD8222604DE7C00BED341 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FA8FD80D2604DB1900BED341 /* TimerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TimerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA8FD8112604DB1900BED341 /* TimerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerUITests.swift; sourceTree = "<group>"; };
 		FA8FD8132604DB1900BED341 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA8FD8222604DE7C00BED341 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				FA8FD7F12604DB1700BED341 /* SceneDelegate.swift */,
 				FA8FD7F32604DB1700BED341 /* ViewController.swift */,
 				FA8FD7F52604DB1700BED341 /* Main.storyboard */,
+				FA8FD8222604DE7C00BED341 /* SecondViewController.swift */,
 				FA8FD7F82604DB1800BED341 /* Assets.xcassets */,
 				FA8FD7FA2604DB1800BED341 /* LaunchScreen.storyboard */,
 				FA8FD7FD2604DB1800BED341 /* Info.plist */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA8FD8232604DE7C00BED341 /* SecondViewController.swift in Sources */,
 				FA8FD7F42604DB1700BED341 /* ViewController.swift in Sources */,
 				FA8FD7F02604DB1700BED341 /* AppDelegate.swift in Sources */,
 				FA8FD7F22604DB1700BED341 /* SceneDelegate.swift in Sources */,
